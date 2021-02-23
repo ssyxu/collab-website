@@ -1,5 +1,5 @@
 ---
-title: "our website"
+title: "Our website"
 author: "Shiyu Xu"
 date: "2/23/2021"
 output: html_document
@@ -18,6 +18,8 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 summary(cars)
 ```
+
+![](https://i.insider.com/578e9e4588e4a77c708b8db1?width=750&format=jpeg&auto=webp)
 
 ## Including Plots
 
